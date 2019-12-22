@@ -1,0 +1,10 @@
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\bin\Debug\Calculo de ecuaciones.exe.config
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\bin\Debug\Calculo de ecuaciones.exe
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\bin\Debug\Calculo de ecuaciones.pdb
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo de ecuaciones.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo_de_ecuaciones.Form1.resources
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo_de_ecuaciones.Properties.Resources.resources
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo de ecuaciones.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo de ecuaciones.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo de ecuaciones.exe
+C:\Users\aleja\Desktop\vs\Calculo de ecuaciones\Calculo de ecuaciones\obj\Debug\Calculo de ecuaciones.pdb
